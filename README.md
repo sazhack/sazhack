@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sarah
+- 👀 I’m interested in coding and mac and cheese.
+- 🌱 I’m currently learning all things Front End Dev!

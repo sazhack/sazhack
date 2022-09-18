@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Sarah.
 - ❤️‍🔥 I love coding and mac and cheese.
 - 🌱 I’m currently a self-taught coder and am learning all things Front End Dev!
+- 🖥 Check out my portfolio! href="https://www.sarahplant.dev"
